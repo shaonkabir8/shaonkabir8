@@ -25,14 +25,15 @@ Thanks for exploring my profile.I appreciate it 👍
 ```json
 {
     "languages" : ["Javascript", "Python", "PHP"],
-    "frontend"  : ["React", "Nextjs", "Gatsby"], 
-    "backend"   : ["nodejs", "Express", "Apollo-server"],
+    "frontend"  : ["React", "Gatsby", "Nextjs"], 
+    "backend"   : ["nodejs", "Express", "GraphQL", "Hasura", "Apollo-server"],
     "cms"    	: ["WordPress", "Contentful", "Netlify-cms"],
     "dbms"   	: ["MySQL", "MongoDB"],
     "dbms-orm"  : ["Prisma", "Mongoose"],
     "database"  : ["Mysql", "Firebase"],
     "misc"      : ["Docker", "Puppeteer"],
-    "ui"        : ["Material-ui", "Styled-components", "Tailwind.css", "Bulma"],
+    "ui"        : ["Ant Design", "Material-ui", "Styled-components", "SASS", "Bootstrap" ],
+    "package"   : ["yarn","npm", "nvm", "gulp"],
     "tools"     : ["VS Code","Sublime Text", "Vim", "Typora"]
 }
 ```
