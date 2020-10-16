@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=shaonkabir8&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="Shaon's Github stats"/>](https://github.com/shaonkabir8)
+[<img align="right" width="350" height="250" src="https://github-readme-stats.vercel.app/api?username=shaonkabir8&show_icons=true&theme=merko&hide_border=true&count_private=true&show_owner=true" alt="Shaon's Github stats"/>](https://github.com/shaonkabir8)
 
 ### Hi Folks 👋🏼
 
