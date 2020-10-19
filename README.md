@@ -30,7 +30,6 @@ Thanks for exploring my profile.I appreciate it 👍
     "cms"    	: ["WordPress", "Contentful", "Netlify-cms"],
     "dbms"   	: ["MySQL", "MongoDB"],
     "dbms-orm"  : ["Prisma", "Mongoose"],
-    "database"  : ["Mysql", "Firebase"],
     "misc"      : ["Docker", "Puppeteer"],
     "ui"        : ["Ant Design", "Material-ui", "Styled-components", "SASS", "Bootstrap" ],
     "package"   : ["yarn","npm", "nvm", "gulp"],
