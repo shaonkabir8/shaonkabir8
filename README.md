@@ -2,7 +2,7 @@
 
 ### Hi Folks 👋🏼
 
-I'm **Shaon Kabir**, an :man_technologist: interactive Frontend Developer, <br/> 
+I'm **Shaon Kabir**, a :man_technologist: Full Stack Software Developer, <br/> 
 :rocket: open source contributor `&&` JavaScript lover :heart: <br/> :house: living in amazingly beautiful  :bangladesh: Bangladesh.
 
 Thanks for exploring my profile.I appreciate it 👍
@@ -12,7 +12,7 @@ Thanks for exploring my profile.I appreciate it 👍
 
 ### Things you should know
 
-🔭 currently working as a Frontend Developer with an amazing team named [![](https://avatars2.githubusercontent.com/u/44778862?s=16&v=4) Code Eating Ants](https://github.com/code-eating-ants)\
+🔭 currently working as a Frontend Developer with an amazing team named [DropOutLab](https://github.com/dropoutlab-dev)\
 🌱 currently learning to **🤖 Automate web** & more **🚀 Coolest Staffs**\
 💻 All my **Project** with a live version are available at my personal [portfolio](https://shaonkabir.netlify.app.com)\
 📝 **write articles** twice a month on [Dev Community](https://dev.to/shaonkabir8)\
