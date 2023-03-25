@@ -24,8 +24,8 @@ Thanks for exploring my profile.I appreciate it 👍
 ### My Stacks
 ```json
 {
-    "languages" : ["Javascript", "Python", "PHP"],
-    "frontend"  : ["React", "Gatsby", "Nextjs"], 
+    "languages" : ["Javascript","Dart", "Python", "PHP"],
+    "frontend"  : ["React", "React Native", "Flutter", "Gatsby", "Nextjs"], 
     "backend"   : ["nodejs", "Express", "GraphQL", "Hasura", "Apollo-server"],
     "cms"    	: ["WordPress", "Contentful", "Netlify-cms"],
     "dbms"   	: ["MySQL", "MongoDB"],
