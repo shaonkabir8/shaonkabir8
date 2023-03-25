@@ -12,14 +12,14 @@ Thanks for exploring my profile.I appreciate it 👍
 
 ### Things you should know
 
-🔭 currently working as a Frontend Developer with an amazing team named [DropOutLab](https://github.com/dropoutlab-dev)\
+🔭 currently working as a Full Stack Software Developer with an amazing Company named [DropOutLab](https://github.com/dropoutlab-dev)\
 🌱 currently learning to **🤖 Automate web** & more **🚀 Coolest Staffs**\
 💻 All my **Project** with a live version are available at my personal [portfolio](https://shaonkabir.netlify.app.com)\
 📝 **write articles** twice a month on [Dev Community](https://dev.to/shaonkabir8)\
-💬 **Ask me about:** JavaScript,React,Git, CSS3,SASS,HTML5,\
+💬 **Ask me about:** JavaScript,React,Dart,Flutter,\
 ⚡ **Fun fact:** I'm a Night owl :owl: who love to travel :rocket:
 
-📫 You're always welcome to drop me a message at [shaonkabir98@gmail.com](shaonkabir98@gmail.comcom)
+📫 You're always welcome to drop me a message at [shaonkabir8@dropoutlab.uk](shaonkabir8@dropoutlab.uk)
 
 ### My Stacks
 ```json
@@ -30,10 +30,10 @@ Thanks for exploring my profile.I appreciate it 👍
     "cms"    	: ["WordPress", "Contentful", "Netlify-cms"],
     "dbms"   	: ["MySQL", "MongoDB"],
     "dbms-orm"  : ["Prisma", "Mongoose"],
-    "misc"      : ["Docker", "Puppeteer"],
-    "ui"        : ["Ant Design", "Material-ui", "Styled-components", "SASS", "Bootstrap" ],
-    "package"   : ["yarn","npm", "nvm", "gulp"],
-    "tools"     : ["VS Code","Sublime Text", "Vim", "Typora"]
+    "misc"      : ["Docker", "Puppeteer", "Selenium", "PlayWright"],
+    "ui"        : ["Ant Design", "Material-ui", "Styled-components", "SASS", "Twilind" ],
+    "package"   : ["yarn","npm", "pnpm", "nvm", "gulp"],
+    "tools"     : ["Android Studio", "VS Code","Sublime Text", "Vim", "Typora"]
 }
 ```
 
