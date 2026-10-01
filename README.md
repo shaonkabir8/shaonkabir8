@@ -10,9 +10,11 @@
 
 ---
 
-### 👤 "root@shaonkabir8:~\$ whoami"
+### 👤 ~\$ whoami"
 
 ```text
+root@shaonkabir8:~\$ whoami
+
 Name      :: Shaon Kabir
 Role      :: Full-Stack Engineer
 Focus     :: AI SaaS, secure systems, and developer tooling
@@ -22,10 +24,10 @@ Status    :: Coding...
 
 ---
 
-### ⚡ "~/boot_sequence.sh"
+### ⚡ "~/boot.sh"
 
 ```bash
-$ sudo ./boot_sequence.sh
+boot@shaonkabir8:~$ sudo init developer
 
 [ OK ] Loading focused thinking...
 [ OK ] Initializing the engineering runtime...
@@ -36,7 +38,6 @@ $ sudo ./boot_sequence.sh
 
 ────────────────────────────────────────────
 
-boot@shaonkabir8:~$ sudo init developer
 
 💡  Think();
 🧠  Model();
