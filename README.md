@@ -10,9 +10,9 @@
 
 ---
 
-### 👤 ~\$ whoami"
+### 👤 ~\$ whoami
 
-```text
+```bash
 root@shaonkabir8:~\$ whoami
 
 Name      :: Shaon Kabir
@@ -149,16 +149,17 @@ SYSTEM STATUS: ONLINE ✔
 
 <div align="center">
 
-```text
-root@shaonkabir8:~\$ echo "Never Stop Learning."
 
-Never Stop Learning.
-```
-
-⚡ **Build • Break • Secure • Repeat**
-
-#### TL;DR
-
-Alright dear. 😍 Thanks for being connected with me at least for a while.🤩 I highly appreciate it.👏
-
+⚡ **Build • Break • Secure • Verify • Automate **
 </div>
+
+### 🔕 ~\$ exit()
+
+```bash
+root@shaonkabir8:~\$ exit()
+[ OK ] [■■■■■■■□□□] Closing Sessions..
+[ OK ] [■■■■■■■■□□] System Down
+[ OK ] [■■■■■■■■■■] Bye, Mate!
+
+exit 0
+```
