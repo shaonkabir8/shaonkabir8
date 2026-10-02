@@ -42,7 +42,7 @@ boot@shaonkabir8:~$ sudo init developer
 💡  Think();
 🧠  Model();
 🧭  Architect();
-⌨️   Code();
+⌨️  Code();
 ⚒️  Build();
 💥  Break();
 🔐  Harden();
