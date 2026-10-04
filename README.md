@@ -150,7 +150,8 @@ SYSTEM STATUS: ONLINE ✔
 <div align="center">
 
 
-⚡ **Build • Break • Secure • Verify • Automate **
+⚡ **Build • Break • Secure • Verify • Automate**
+
 </div>
 
 ### 🔕 ~\$ exit()
