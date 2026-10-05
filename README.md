@@ -147,9 +147,6 @@ root@shaonkabir8:~$ ./github_stats.sh --live
   <img height="175" src="https://streak-stats.demolab.com?user=shaonkabir8&theme=chartreuse-dark&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak"/>
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaonkabir8&bg_color=00000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" alt="activity"/>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2&section=header" width="100%"/>
 
