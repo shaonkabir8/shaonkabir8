@@ -31,18 +31,10 @@ Status    :: Active ☠️
 ```bash
 boot@shaonkabir8:~$ sudo init developer
 
-[ OK ] Loading focused thinking...
-[ OK ] Initializing the engineering runtime...
-[ OK ] Mounting development engines...
-[ OK ] Enabling security controls...
-[ OK ] Connecting to GitHub...
-[ OK ] Injecting caffeine...
-
 ────────────────────────────────────────────
 
-
 💡  Think();
-🧠  Model();
+🧠  MentalModel();
 🧭  Architect();
 ⌨️  Code();
 ⚒️  Build();
@@ -56,7 +48,8 @@ exit 0
 
 ────────────────────────────────────────────
 
-Developer Ready ✔
+[OK]  Boot Initialized ✔
+[OK]  Mission Activated ✔
 ```
 
 ---
