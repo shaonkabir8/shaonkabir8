@@ -28,7 +28,7 @@ Status    :: Active ☠️
 
 ### ⚡ "~/boot.sh"
 
-```bash
+```console
 root@shaonkabir8:~$ sudo dev init
 
 ────────────────────────────────────────────
