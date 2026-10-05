@@ -67,7 +67,7 @@ exit 0
 * **Automate** the repeatable.
 * **Keep learning**.
 
-> **Build • Break • Learn • Secure  • Automate**
+> **Build • Break • Secure  • Automate**
 
 ---
 
