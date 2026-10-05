@@ -13,13 +13,13 @@
 ### 👤 ~\$ whoami
 
 ```bash
-root@shaonkabir8:~\$ whoami
+root@shaonkabir8:~ $ whoami
 
 Name      :: Shaon Kabir
 Role      :: Full-Stack Engineer
 Focus     :: AI SaaS, secure systems, and developer tooling
-Mission   :: Build useful, resilient, and secure software.
-Status    :: Coding...
+Mission   :: Build useful, resilient, and secure software for future Generation.
+Status    :: Involved in HacktoberFest2026.
 ```
 
 ---
