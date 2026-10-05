@@ -67,7 +67,7 @@ exit 0
 * **Automate** the repeatable.
 * **Keep learning**.
 
-> «Build it. Break it. Understand it. Secure it. Improve it.»
+> **Build • Break • Learn • Secure  • Automate**
 
 ---
 
@@ -155,10 +155,3 @@ root@shaonkabir8:~\$ dev exit()
 
 exit 0
 ```
-<div align="center">
-
-``text
-⚡ **Build • Break • Secure  • Automate**
-```
-
-</div>
