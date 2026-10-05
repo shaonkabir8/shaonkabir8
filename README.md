@@ -12,7 +12,7 @@
 
 ### 👤 ~\$ whoami
 
-```bash
+```console
 root@shaonkabir8:~ $ whoami
 
 Name      :: Shaon Kabir
@@ -98,8 +98,8 @@ ARCHITECTURE
 
 ### 📊 "~/github_stats.sh"
 
-```bash
-root@shaonkabir8:~$ ./github_stats.sh
+```console
+root@shaonkabir8:~$ github status
 
 [■■□□□□□□□□] Connecting to GitHub...
 [■■■■□□□□□□] Fetching public repositories...
@@ -135,30 +135,30 @@ SYSTEM STATUS: ONLINE ✔
 1. Understand before implementing.
 2. Design before scaling.
 3. Automate what repeats.
-4. Break what you build.
+4. Break what build securely.
 5. Assume nothing is secure by default.
 6. Verify before trusting.
 7. Keep systems observable.
 8. Prefer simplicity over unnecessary complexity.
-9. Learn from failure.
+9. memorize the future focusd BUZZWORDS.
 10. Never stop iterating.
 
 ---
 
-<div align="center">
-
-
-⚡ **Build • Break • Secure  • Automate**
-
-</div>
-
 ### 🔕 ~\$ exit()
 
-```bash
-root@shaonkabir8:~\$ exit()
+```console
+root@shaonkabir8:~\$ dev exit()
 [ OK ] [■■■■■■■□□□] Closing Sessions..
 [ OK ] [■■■■■■■■□□] System Down
 [ OK ] [■■■■■■■■■■] Bye, Mate!
 
 exit 0
 ```
+<div align="center">
+
+``text
+⚡ **Build • Break • Secure  • Automate**
+```
+
+</div>
