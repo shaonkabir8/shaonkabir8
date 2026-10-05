@@ -29,7 +29,7 @@ Status    :: Active ☠️
 ### ⚡ "~/boot.sh"
 
 ```bash
-boot@shaonkabir8:~$ sudo init developer
+root@shaonkabir8:~$ sudo dev init
 
 ────────────────────────────────────────────
 
@@ -49,7 +49,10 @@ exit 0
 ────────────────────────────────────────────
 
 [OK]  Boot Initialized ✔
-[OK]  Mission Activated ✔
+[OK]  Target Locked ✔
+[OK]  Root Permission Authorised ✔
+
+>Mr.0x1nj3ct04 ☠️:~$ Proceed, Cheif
 ```
 
 ---
