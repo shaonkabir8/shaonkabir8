@@ -111,7 +111,6 @@ SYSTEM STATUS: ONLINE ✔
 ```
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shaonkabir8&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
   <img height="180" src="https://streak-stats.demolab.com?user=shaonkabir8&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
