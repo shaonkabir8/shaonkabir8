@@ -203,8 +203,6 @@ root@shaonkabir8:~$ dev exit()
   exit 0
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:00B32E,100:00FF41&height=160&section=footer&text=Hack.%20Build.%20Secure.&fontSize=26&fontColor=000000&fontAlignY=72&animation=fadeIn" width="100%"/>
-
 <div align="center">
   <sub><code>root@shaonkabir8:~$ █</code></sub>
 </div>
