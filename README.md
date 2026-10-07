@@ -53,7 +53,7 @@ root@shaonkabir8:~ $ _
 </div>
 
 ```console
-root@shaonkabir8:~$ sudo ./boot.sh --init
+root@shaonkabir8:~$ sudo dev init
 
   ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 100%
 
