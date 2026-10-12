@@ -15,11 +15,6 @@
 <img src="https://img.shields.io/github/stars/shaonkabir8?affiliations=OWNER&label=STARS&style=for-the-badge&color=00ff41&labelColor=000000" alt="stars"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" alt="status"/>
 <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="linux"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="720" alt="matrix"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2&section=header" width="100%"/>
