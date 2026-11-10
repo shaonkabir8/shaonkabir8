@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: '17 */2 * * *'   # every 2 hours
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'README.md'
+      - '.github/workflows/cool-readme.yml'
 
 permissions:
   contents: write
@@ -19,9 +24,13 @@ jobs:
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
+      # The cards live on their own branch, as a single commit replaced on each change, so they
+      # don't add to the history of your main branch.
       - name: Publish the cards on the cards branch
         run: |
-          git fetch --quiet --depth 1 origin cards:refs/remotes/origin/cards 2>/dev/null || true
+          # With the cards turned off there is nothing to publish.
+          if ! ls "$RUNNER_TEMP"/cards/*.svg >/dev/null 2>&1; then echo "No cards: they're off"; exit 0; fi
+          git fetch --quiet --depth 1 origin cards:refs/remotes/origin/cards 2>/dev/null || true # not there on the first run
           git switch --quiet --orphan cards
           cp "$RUNNER_TEMP"/cards/*.svg .
           git add -- *.svg
@@ -49,10 +58,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN }}
       - name: Publish the snake on the snake branch
         run: |
+          git fetch --quiet --depth 1 origin snake:refs/remotes/origin/snake 2>/dev/null || true # not there on the first run
           git switch --quiet --orphan snake
           cp "$RUNNER_TEMP"/snake/*.svg .
           git add -- *.svg
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit --quiet -m 'Update snake'
+          if git rev-parse --quiet --verify origin/snake >/dev/null && git diff --quiet origin/snake HEAD; then
+            echo "No changes"
+            exit 0
+          fi
           git push --force origin snake
