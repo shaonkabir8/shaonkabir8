@@ -129,18 +129,36 @@ root@shaonkabir8:~$ cat ~/engineering_philosophy.md
 ```console
 root@shaonkabir8:~$ ./github_stats.sh --live
 
-  ■■□□□□□□□□□□□□ Connecting to GitHub ............
-  ■■■■■□□□□□□□□□ Fetching repositories ...........
-  ■■■■■■■■■□□□□□ Calculating contributions ......
-  ■■■■■■■■■■■■□□ Rendering statistics ...........
-  ■■■■■■■■■■■■■■ Complete.
-
   SYSTEM STATUS: ONLINE ✔
 ```
 
-<div align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=shaonkabir8&theme=chartreuse-dark&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="streak"/>
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/contributions-light.svg" width="450" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/snake/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/shaonkabir8/shaonkabir8/snake/snake.svg" alt="Contribution snake">
+</picture>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF41,100:000000&height=2&section=header" width="100%"/>
 
